@@ -56,8 +56,13 @@ img{
     font-size: 16px;
     font-weight: 500;
     color: #9E9E9E;
-    padding-left: 20px;
+    padding-left: 10px;
+    background: url(person.png);
+    background-position: right center;
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
 }
+
 
 .paragraph2{
     font-family: inter;
@@ -75,6 +80,10 @@ img{
     border: 1px solid #F4B4B47A;
     margin-left: 31px;
     margin-top: 6px;
+    background: url(eye-slash.png);
+    background-position: right center;
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
 }
 
 .input_password::placeholder{
@@ -82,7 +91,7 @@ img{
     font-size: 16px;
     font-weight: 500;
     color: #9E9E9E;
-    padding-left: 20px;
+    padding-left: 10px;
 }
 
 .button{
